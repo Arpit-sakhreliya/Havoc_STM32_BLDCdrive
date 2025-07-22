@@ -61,7 +61,7 @@ This project implements a high-performance **48 V, 20 A** BLDC motor control
 
 
 ### ⚙️ Raw PCB  
-![Raw PCB]("Havoc_pcb.Png")  
+![Raw PCB](Havoc_pcb.png)  
 
 
 ### 🛠️ Fabricated PCB (Assembled)  
