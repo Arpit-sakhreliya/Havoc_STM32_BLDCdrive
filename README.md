@@ -12,13 +12,7 @@ This project implements a high-performance **48 V, 20 A** BLDC motor control
 - Supports **48 V DC input**, **20 A continuous current**  
 - **Precision current sensing** (±0.005 A)  
 - Dual **14‑bit magnetic encoders**  
-- Protection: EMI suppression, reverse-polarity protection, resistive braking support  
 
-### Firmware & Control  
-- **FOC** using Clarke–Park transforms  
-- **Cascaded PID control loops** – 2 kHz position loop, 30 kHz current loop  
-- **Q‑learning**–tuned outer loop  
-- Smooth ramp profiling with **soft-start SFC** and **cubic trajectory planning**  
 
 ### Connectivity  
 - Interfaces: **CAN**, **USB**, **UART** for telemetry and control  
